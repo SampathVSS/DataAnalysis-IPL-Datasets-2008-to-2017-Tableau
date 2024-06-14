@@ -13,7 +13,7 @@ Matches: Key summaries of individual matches and their outcomes
 Player_Match: Roster of players for each match along with their performance summaries  
 Ball_by_Ball: Granular data at the ball level  
 
-**Analytical Queries** [Link to Wiki Page](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017/wiki/Analytical-Queries-%7C-MySQL-&-Tableau)
+**Analytical Queries** [Link to Wiki Page](https://github.com/SampathVSS/DataAnalysis-IPL-Datasets-2008-to-2017-Tableau/wiki)
 1. Quick Insights  
 1.1 Number of Matches conducted in each year and the period of the tournament  
 1.2 Number of matches conducted in each year and in each stadium  
